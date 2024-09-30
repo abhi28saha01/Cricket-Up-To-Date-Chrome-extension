@@ -1,4 +1,4 @@
-This is a Chrome Extension which is built using technologies like HTML , CSS , Javascript and JSON. This chrome extension will help you to stay upto date with Cricket.
+This is a Chrome Extension which is built using technologies like HTML , CSS , Javascript and JSON. This chrome extension will help you to stay upto date with Cricket.\n
 **How to Install?**
 **Step 1 :** Download all the folder and files ad it is
 **Step 2 :** Now go to Chrome and write chrome://extensions on the tab
