@@ -1,0 +1,11 @@
+{
+    "name" : "My Chrome Extension",
+    "version" : "0.0.1",
+    "description" : "This Extension is created by Abhishek Saha",
+    "manifest_version" : 3,
+    "author" : "Abhishek Saha",
+    "action" : {
+        "default_popup" : "index.html",
+        "default_title" : "My ChromeExtension"
+    }
+}
