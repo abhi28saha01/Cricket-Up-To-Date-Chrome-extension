@@ -1,11 +1,16 @@
 {
-    "name" : "My Chrome Extension",
-    "version" : "0.0.1",
+    "name" : "Up-To-Date With Cricket",
+    "version" : "0.1.1",
     "description" : "This Extension is created by Abhishek Saha",
     "manifest_version" : 3,
     "author" : "Abhishek Saha",
     "action" : {
         "default_popup" : "index.html",
-        "default_title" : "My ChromeExtension"
+        "default_title" : "My ChromeExtension",
+        "default_icon": {
+        "16": "icons/cricket.png",
+        "48": "icons/cricket.png",
+        "128": "icons/cricket.png"
+      }
     }
 }

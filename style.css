@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    min-height: 300px;
+    min-width: 500px;
+    background-color: rgb(32, 32, 32);
+}
+
+.container h2{
+    text-align: center;
+    text-decoration: underline;
+    color: aliceblue;
+}
+
+#matches{
+    color: azure;
+}
